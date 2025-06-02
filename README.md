@@ -10,3 +10,9 @@ Rails応用：
 
 その他：
 - Ruby練習
+
+## 6/2
+**応用STEP**
+
+Rails応用：
+- whenever による記事数一覧のメール送信
