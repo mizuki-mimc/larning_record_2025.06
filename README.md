@@ -16,3 +16,17 @@ Rails応用：
 
 Rails応用：
 - whenever による記事数一覧のメール送信
+
+## 6/3
+
+その他：
+- Skill Metrix
+
+## 6/4
+**応用STEP**
+
+ActiveRecord演習：
+- ActiveRecordの操作10本ノック
+
+その他：
+- ミニアプリ作成
